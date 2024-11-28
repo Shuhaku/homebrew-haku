@@ -45,7 +45,7 @@ haku -d snow flake          # Output: snowflake
 
 haku -c snow flake flame flake         # Output: snowFlakeFlameFlake
 haku -p snow flake flame flake         # Output: SnowFlakeFlameFlake
-haku -s snow flake flame flake         # Output: snow_flake
+haku -s snow flake flame flake         # Output: snow_flake_flame_flake
 haku -u snow flake flame flake         # Output: SNOWFLAKEFLAMEFLAKE
 haku -d snow flake flame flake         # Output: snowflakeflameflake
 ```
